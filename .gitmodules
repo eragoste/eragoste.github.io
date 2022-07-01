@@ -1,0 +1,6 @@
+[submodule "static/css/Font-Awesome"]
+	path = static/css/Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "themes/dream"]
+	path = themes/dream
+	url = git@github.com:St0rmingBr4in/hugo-theme-dream.git
