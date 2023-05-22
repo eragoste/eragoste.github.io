@@ -1,6 +1,7 @@
 +++
 title = "Experience"
-slug = "projects"
+slug = "experience"
 +++
 
-Nothing to see here... Move along!
+January to April 2022 	Developer DevOps
+....
